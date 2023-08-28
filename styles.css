@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Philosopher:wght@700&display=swap");
+
+#AT{
+    font-family: 'Philosopher';
+}
+ul>*{
+    font-family: 'Montserrat';
+}
+#icons>*{
+width: 25%;
+}
+
+
+@media (max-width: 575px) {
+  #skils{
+      width: 90%;
+  }
+  #my{
+    width: 80%;
+}
+}
+@media (min-width: 576px) {
+  #skils{
+      width: 80%
+  }
+  #my{
+    width: 40%
+}
+}
+@media (min-width: 768px) {
+  #skils{
+      width: 60%
+  }
+  #my{
+    width: 40%
+}
+}
