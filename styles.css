@@ -6,6 +6,9 @@
 ul>*{
     font-family: 'Montserrat';
 }
+li>*{
+    cursor: pointer;
+}
 #icons>*{
 width: 25%;
 }
@@ -34,4 +37,7 @@ width: 25%;
   #my{
     width: 40%
 }
+#icons>*{
+    width: 20%;
+    }
 }
